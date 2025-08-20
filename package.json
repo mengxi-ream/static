@@ -2,7 +2,7 @@
   "type": "module",
   "packageManager": "pnpm@10.14.0",
   "scripts": {
-    "build": "sponsorkit"
+    "build": "sponsorkit --force"
   },
   "devDependencies": {
     "@types/node": "^22.13.4",
